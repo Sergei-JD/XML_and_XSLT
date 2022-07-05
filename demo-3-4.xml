@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<s:data xmlns="http://shlyazhko.com/course/xml/default"
+		xmlns:s="http://shlyazhko.com/course/xml/lab"
+		xmlns:html="http://www.w3.org/1999/xhtml">
+	<s:lesson id="">
+		<startDate>05-07-2022</startDate>
+		<description>
+			<html:div>
+				&lt; &gt; &amp; 
+			</html:div>
+		</description>
+	</s:lesson>
+</s:data>
+
+

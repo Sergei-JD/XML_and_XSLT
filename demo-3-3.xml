@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books
+		xmlns="http://shlyazhko.com/course/xml/default"
+		xmlns:s="http://shlyazhko.com/course/xml/s"
+		xmlns:p="http://shlyazhko.com/course/xml/p">
+	
+	<s:book>
+		<s:title>XML и IE5</s:title>
+		<s:author>Alex Homer</s:author>
+		<s:price>200</s:price>
+	</s:book>
+	
+	<p:book>
+		<p:title>Dimanic HTML</p:title>
+		<p:author>Alex Homer</p:author>
+		<p:price>120</p:price>
+	</p:book>
+	
+	<book>
+		<title>HTML and XHTML</title>
+		<author>Chuck Musciano and Bill Kennedy</author>
+		<price>250</price>
+	</book>
+	
+</books>
