@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+
+	<book xmlns="http://shlyazhko.com/catalog/library-1">
+		<title>HTML and XHTML</title>
+		<author>Chuck Musciano and Bill Kennedy</author>
+		<price>200</price>
+	</book>
+	
+	<book xmlns="http://shlyazhko.com/catalog/library-2">
+		<title>HTML and XHTML</title>
+		<author>Chuck Musciano and Bill Kennedy</author>
+		<price>200</price>
+	</book>
+	
+</books>
